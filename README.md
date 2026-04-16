@@ -23,6 +23,6 @@ Foram feitos ajustes como:
 
 "Resultado" [IMAGEM IA - HP.jpeg]()
 
-💭 Reflexão
+💭 ReflexãO
 
 Foi interessante explorar como a IA consegue transformar uma imagem comum em um cenário completamente diferente, mantendo características reais e adicionando elementos criativos de forma convincente.
