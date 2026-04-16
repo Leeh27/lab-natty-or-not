@@ -21,7 +21,7 @@ Foram feitos ajustes como:
 
 📷 Resultado
 
-"Resultado" [IMAGEM IA - HP.jpeg]()
+"Resultado" [https://github.com/Leeh27/lab-natty-or-not/blob/main/IMAGEM%20IA%20-%20HP.jpeg]()
 
 💭 ReflexãO
 
