@@ -21,7 +21,7 @@ Foram feitos ajustes como:
 
 📷 Resultado
 
-"Resultado" [LINK PARA O E-BOOK AQUI]()
+"Resultado" [https://github.com/Leeh27/lab-natty-or-not/blob/main/IMAGEM%20IA%20-%20HP.jpeg]()
 
 💭 Reflexão
 
